@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\WCF_Chat_v2\WCF_Chat 2.0\bin\Debug\WCF_Chat 2.0.dll.config
+C:\Users\pc\source\repos\WCF_Chat_v2\WCF_Chat 2.0\bin\Debug\WCF_Chat 2.0.dll
+C:\Users\pc\source\repos\WCF_Chat_v2\WCF_Chat 2.0\bin\Debug\WCF_Chat 2.0.pdb
+C:\Users\pc\source\repos\WCF_Chat_v2\WCF_Chat 2.0\obj\Debug\ClientServerContract.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\WCF_Chat_v2\WCF_Chat 2.0\obj\Debug\ClientServerContract.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\WCF_Chat_v2\WCF_Chat 2.0\obj\Debug\WCF_Chat 2.0.dll
+C:\Users\pc\source\repos\WCF_Chat_v2\WCF_Chat 2.0\obj\Debug\WCF_Chat 2.0.pdb
+C:\Users\pc\source\repos\WCF_Chat_v2\ClientServerContract\obj\Debug\ClientServerContract.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\WCF_Chat_v2\ClientServerContract\obj\Debug\ClientServerContract.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\WCF_Chat_v2\ClientServerContract\bin\Debug\ClientServerContract.dll.config
+C:\Users\pc\source\repos\WCF_Chat_v2\ClientServerContract\bin\Debug\ClientServerContract.dll
+C:\Users\pc\source\repos\WCF_Chat_v2\ClientServerContract\bin\Debug\ClientServerContract.pdb
+C:\Users\pc\source\repos\WCF_Chat_v2\ClientServerContract\obj\Debug\ClientServerContract.dll
+C:\Users\pc\source\repos\WCF_Chat_v2\ClientServerContract\obj\Debug\ClientServerContract.pdb
